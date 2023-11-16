@@ -2,7 +2,7 @@
 
 Meu nome é Ana Clara
 
--Estou estudando no Alura;
+-Estou estudando no [Alura](https://www.alura.com.br);
 
 -Estou me desenvolvendo na linguagem JavaScript;
 
@@ -11,4 +11,9 @@ Meu nome é Ana Clara
 **Vocẽ pode entrar em contato comigo** 📫
 
 ana.clara.luz@escola.pr.gov.br
+
+@ana.clara-400
+
+![](https://media.tenor.com/q_jj1u340XAAAAAM/snowball-bunny-carrot.gif) 
+
 
